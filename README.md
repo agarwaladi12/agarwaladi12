@@ -12,13 +12,27 @@
 
 🚀 **Passionate Data Engineer**, focused on building **scalable data systems** and **cloud architectures**. With a strong background in **data engineering**, **cloud computing**, and **AI/ML systems**, I am constantly looking to learn, experiment, and optimize real-time data solutions.
 
-🛠️ **Tech Stack**:
-- **Programming Languages**: Python, Java, C++, SQL, Scala, C#
-- **Cloud**: Google Cloud (BigQuery, GCS), AWS, Azure
-- **Data Engineering & Streaming**: Apache Kafka, Apache Airflow, Debezium, Apache Spark, Databricks
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps & Automation**: Docker, Kubernetes, Jenkins, Terraform, Git, CI/CD
-- **Machine Learning & AI**: TensorFlow, Scikit-learn, Pandas, NumPy
+### 🛠️ Languages and Tools:
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka" alt="kafka" width="40" height="40"/> </a> 
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache%20Airflow-0175C2?logo=apache-airflow" alt="airflow" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://www.databricks.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Databricks-FF6F5C?logo=databricks" alt="databricks" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins" alt="jenkins" width="40" height="40"/> </a> 
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Terraform-7F5AB6?logo=terraform" alt="terraform" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
 
 🌱 **Currently Learning**:
 - Real-Time Data Streaming Architectures
