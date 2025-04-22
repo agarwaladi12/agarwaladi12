@@ -1,5 +1,15 @@
 # Hi there, I'm Aditya Agarwal 👋
 
+<!-- Profile Views Badge -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwaladi12&label=Profile%20views&color=0e75b6&style=flat" alt="agarwaladi12" /> </p>
+
+<!-- GitHub Profile Trophy -->
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=agarwaladi12&theme=darkhub&row=2&column=4" alt="Aditya Agarwal" />
+  </a> 
+</p>
+
 🚀 **Passionate Data Engineer**, focused on building **scalable data systems** and **cloud architectures**. With a strong background in **data engineering**, **cloud computing**, and **AI/ML systems**, I am constantly looking to learn, experiment, and optimize real-time data solutions.
 
 🛠️ **Tech Stack**:
